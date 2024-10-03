@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-Hi there! I'm **Muhammad Fariz Nur Hidayat**, a passionate software engineering student at [Your University]. I enjoy developing digital solutions, working on exciting projects, and continuously improving my skills. My focus is on web development, data structures, and sustainable development technology.
+Hi there! I'm **Muhammad Fariz Nur Hidayat**, a passionate software engineering student at Telkom University. I enjoy developing digital solutions, working on exciting projects, and continuously improving my skills. My focus is on web development, data structures, and sustainable development technology.
 
 - 🌱 I’m currently learning **Advanced Data Structures** and **Algorithms**.
 - 💬 Ask me about **Linked Lists**, **JavaScript**, and **Sustainability in Tech**.
@@ -71,7 +71,6 @@ Hi there! I'm **Muhammad Fariz Nur Hidayat**, a passionate software engineering 
 ## 🏆 Achievements & Certifications
 
 - **Google IT Support Professional Certificate**  
-  Credential ID: ABC1234  
   [View Certificate](https://www.coursera.org/account/accomplishments/certificate/ABC1234)
 
 - **Winner of 2023 Hackathon on SDG Innovation**  
@@ -80,7 +79,7 @@ Hi there! I'm **Muhammad Fariz Nur Hidayat**, a passionate software engineering 
 ---
 
 ## 📫 How to Reach Me
-- **Email**: muhammadfariz@example.com  
+- **Email**: hidayatfariz14@gmail.com  
 - **LinkedIn**: [Muhammad Fariz Nur Hidayat](https://www.linkedin.com/in/yourlinkedin/)  
 - **Website**: [farizportfolio.com](https://yourwebsite.com)
 
