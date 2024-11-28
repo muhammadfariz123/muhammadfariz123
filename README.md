@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/yourlinkedin/)
-[![Website](https://img.shields.io/badge/Website-Portfolio-orange)](https://yourwebsite.com)
+[![Website](https://img.shields.io/badge/Website-Portfolio-orange)](https://responsive-portfolio-fariz.netlify.app/)
 
 ---
 
