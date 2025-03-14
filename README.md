@@ -34,6 +34,12 @@ Hi there! I'm **Muhammad Fariz Nur Hidayat**, a passionate software engineering 
 
 ---
 
+### 🐍 Contribution Snake Animation  
+![GitHub Snake](https://raw.githubusercontent.com/muhammadfariz123/muhammadfariz123/output/github-snake.svg)
+
+
+---
+
 ## 📂 Projects
 
 ### 1. **Sustainable Development Goals Dashboard**
