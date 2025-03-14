@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: false 
 
       - name: Generate GitHub Contribution Snake
         uses: Platane/snk@v3
@@ -20,12 +22,10 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Commit and push the SVG file
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }} # Gunakan token dari Secrets
+            - name: Commit and push the SVG file
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
           git commit -m "Update contribution snake animation" || echo "No changes to commit"
-          git push origin main
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/muhammadfariz123/muhammadfariz123.git HEAD:main
